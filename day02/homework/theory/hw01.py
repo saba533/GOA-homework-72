@@ -1,0 +1,2 @@
+#snake_case and camelCase are both different coding styles snake_case is when you put a dash ( _ ) in 
+#between every word and camelCase is when you put a big letter in every word besides the starting word
