@@ -1,0 +1,1 @@
+# data conversation functions are:int() str() float() and bool()

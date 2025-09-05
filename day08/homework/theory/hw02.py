@@ -1,0 +1,1 @@
+# data types consist of Float,int,str and booleans

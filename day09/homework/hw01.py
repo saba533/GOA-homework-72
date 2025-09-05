@@ -1,0 +1,1 @@
+# in the situation of true/false means that both of the question/quests have to be correct and 'or' just means you need at least one of the two to be correct

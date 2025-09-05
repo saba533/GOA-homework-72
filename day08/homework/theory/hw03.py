@@ -1,0 +1,1 @@
+# binary is code made up of zeros and ones and is only for the computer to understand

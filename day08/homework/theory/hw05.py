@@ -1,0 +1,1 @@
+# booleans are true=1 false=0 and biary is made from zeros and ones
